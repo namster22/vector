@@ -253,6 +253,6 @@ public class InicializarVector {
             espera = introducir.next();
 
         }
-
+System.out.println("Hola emiliet");
     }
 }
